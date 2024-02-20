@@ -1,5 +1,7 @@
 # 💫 About Me:
-Estudante universitário cursando Sistemas de Informação, dedicado e organizado, com habilidades em comunicação, análise de dados, desenvolvimento em Java, programação, bancos de dados (MySQL, Oracle), e conhecimento em inglês técnico. Apresento competências em Segurança da Informação, Análise de Dados, Ciência de Dados, Desenvolvimento de Negócios, Governança Estratégica, Modelagem de Processos de Negócios, Algoritmos, Redes de Computadores, e Data Analytics. Conhecimento em elaboração de relatórios conforme ABNT NBR ISO/IEC 27001, 27002, 27005, LGPD, bem como práticas em DevOps, Scrum, e desenvolvimento de redes com sistemas Cisco<br>Buscando oportunidades na área de Tecnologia da Informação (TI): Estágio, Júnior, Trainee ou Auxiliar
+Estudante universitário cursando Sistemas de Informação, dedicado e organizado, com habilidades em comunicação, análise de dados, desenvolvimento em Java, programação, bancos de dados (MySQL, Oracle), e conhecimento em inglês técnico. Apresento competências em Segurança da Informação, Análise de Dados, Ciência de Dados, Desenvolvimento de Negócios, Governança Estratégica, Modelagem de Processos de Negócios, Algoritmos, Redes de Computadores, e Data Analytics. Conhecimento em elaboração de relatórios conforme ABNT NBR ISO/IEC 27001, 27002, 27005, LGPD, bem como práticas em DevOps, Scrum, e desenvolvimento de redes com sistemas Cisco<br>
+
+Buscando oportunidades na área de Tecnologia da Informação (TI): Estágio, Júnior, Trainee ou Auxiliar
 
 
 ## 🌐 Socials:
